@@ -89,8 +89,6 @@ It explains how each feature contributes to the prediction of churn probability.
 Visuals include:
 - SHAP summary plots  
 - Feature importance bar charts  
-- Dependence plots for top predictors  
-
 ---
 
 ## Results Summary
@@ -121,11 +119,6 @@ Visuals include:
 - **XGBoost** provides the best balance between accuracy and interpretability.  
 - **Customer activity, age, and geography** are critical signals for churn.  
 - **SHAP** enables transparent insights into model decisions, supporting business action.  
-
----
-
-
-
 
 ---
 
