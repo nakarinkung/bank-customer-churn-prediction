@@ -1,8 +1,8 @@
 # Bank-Customer-Churn-Prediction
 
 ## Overview
-This project explores how **machine learning** can help banks predict which customers are likely to leave (churn).  
-By analysing customer demographics, account activity, and engagement patterns, the goal is to **identify early warning signs** of churn and provide actionable insights for customer retention.
+This project explores how machine learning can help banks predict which customers are likely to leave (churn).  
+By analysing customer demographics, account activity, and engagement patterns, the goal is to identify early warning signs of churn and provide actionable insights for customer retention.
 
 ---
 
